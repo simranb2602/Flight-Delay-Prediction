@@ -4,10 +4,12 @@ Flight Delay Prediction
 ![image](https://github.com/user-attachments/assets/14470876-6bfd-4fa0-9c3a-edc1dcb293d4)
 
 
-Overview
+Overview:
+
 Flight Delay Prediction is a machine learning project designed to predict the likelihood of flight delays using historical flight data and weather information. Delays in air travel cause significant inconvenience to passengers and financial losses for airlines. This project leverages machine learning techniques to help mitigate the impact of delays by providing accurate predictions.
 
-Project Objective
+Project Objective:
+
 The primary objective of this project is to develop predictive models that can forecast flight delays based on key factors such as departure times, weather conditions, and airport traffic. By accurately predicting flight delays, airlines can optimize their operations, allocate resources effectively, and improve the overall travel experience for passengers.
 
 Why This Project?
