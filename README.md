@@ -40,3 +40,8 @@ The project follows the CRISP-DM (Cross-Industry Standard Process for Data Minin
 5.Evaluation: Evaluating the performance of models using accuracy, precision, recall, F1-score, and ROC AUC.
 
 6.Deployment: Implementing the model for real-time predictions and analysis.
+
+![image](https://github.com/user-attachments/assets/35a5b22f-894a-4722-93bd-c1648c80036e)
+
+![image](https://github.com/user-attachments/assets/3426e5fb-1ee2-480c-9a73-2c079585b6f3)
+
